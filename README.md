@@ -172,7 +172,7 @@ df_impactos = calcular_impacto_variable(df, variables_categoricas)
 
 ---
 
-## 👨‍ Autor
+## Autor
 
 **NULLPX-a**  
 [GitHub](https://github.com/NULLPX-a)
